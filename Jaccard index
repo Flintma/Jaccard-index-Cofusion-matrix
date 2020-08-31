@@ -1,0 +1,2 @@
+from sklearn.metrics import jaccard_similarity_score
+jaccard_similarity_score(y_test, yhat)
